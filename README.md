@@ -32,3 +32,7 @@ Once opened, you can press "a" key to open in virtual device Android, press "i" 
     <img src="./assets/images/screenshots/screen4.png" alt="Navigation App Screenshot" width="200"/>
 
 </p>
+
+
+
+Ejercicio del curso de [Fernando Herrera](https://fernando-herrera.com/)
